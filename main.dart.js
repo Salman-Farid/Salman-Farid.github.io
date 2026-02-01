@@ -71265,6 +71265,7 @@ M(a){var s=null,r=A.aa(a),q=$.fQ.O(),p=10*$.b4.O()/100,o=$.fQ.O(),n=$.b4.O(),m=t
 return A.bu(new A.cj(new A.aL(p,0,p,0),A.fA(A.a([A.cr(s,A.fc(A.a([l,k,j,i,h,new A.cj(new A.aL(0,0,10*g/100,0),A.c_(u.P,A.cF(s,s,A.at(153,e.v()>>>16&255,e.v()>>>8&255,e.v()&255),s,s,s,s,s,s,s,s,f,s,s,B.n,s,s,!0,s,s,s,s,s,s,s,s),s),s),A.bu(s,3*$.b4.O()/100,s),new A.nK("download cv",new A.a12(),s)],m),B.aC,B.S,B.cs),B.r,s,s,s,s,s,new A.aL(0,10*o/100,0,0),s,s,s,55*n/100),B.xI],m),B.Z,B.eX,B.X),s),80*q/100,s)}}
 A.a12.prototype={
 $0(){var s,r=A.amT(u.W)
+r.href="assets/pdf/resume.pdf"
 r.setAttribute("download","resume.pdf")
 s=r.style
 s.display="none"
@@ -71303,6 +71304,7 @@ i=g.ax.a===B.x?B.a_:B.a5
 return A.bu(A.jC(B.aV,A.a([e,new A.cj(new A.aL(10*s/100,10*r/100,0,0),A.fc(A.a([q,o,n,new A.j3(m,B.bd,B.cn,B.Kw,h),l,new A.cj(new A.aL(0,0,50*k/100,0),A.c_(u.P,A.cF(h,h,A.at(153,i.v()>>>16&255,i.v()>>>8&255,i.v()&255),h,h,h,h,h,h,h,h,j,h,h,B.bv,h,h,!0,h,h,h,h,h,h,h,h),h),h),A.bu(h,2*$.b4.O()/100,h),new A.nK("download cv",new A.a14(),h)],p),B.aC,B.S,B.X),h)],p),B.bi),60*f/100,h)}}
 A.a14.prototype={
 $0(){var s,r=A.amT(u.W)
+r.href="assets/pdf/resume.pdf"
 r.setAttribute("download","resume.pdf")
 s=r.style
 s.display="none"
