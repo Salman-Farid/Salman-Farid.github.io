@@ -71265,6 +71265,7 @@ M(a){var s=null,r=A.aa(a),q=$.fQ.O(),p=10*$.b4.O()/100,o=$.fQ.O(),n=$.b4.O(),m=t
 return A.bu(new A.cj(new A.aL(p,0,p,0),A.fA(A.a([A.cr(s,A.fc(A.a([l,k,j,i,h,new A.cj(new A.aL(0,0,10*g/100,0),A.c_(u.P,A.cF(s,s,A.at(153,e.v()>>>16&255,e.v()>>>8&255,e.v()&255),s,s,s,s,s,s,s,s,f,s,s,B.n,s,s,!0,s,s,s,s,s,s,s,s),s),s),A.bu(s,3*$.b4.O()/100,s),new A.nK("download cv",new A.a12(),s)],m),B.aC,B.S,B.cs),B.r,s,s,s,s,s,new A.aL(0,10*o/100,0,0),s,s,s,55*n/100),B.xI],m),B.Z,B.eX,B.X),s),80*q/100,s)}}
 A.a12.prototype={
 $0(){var s,r=A.amT(u.W)
+r.href="assets/assets/pdf/resume.pdf"
 r.setAttribute("download","resume.pdf")
 s=r.style
 s.display="none"
@@ -71280,6 +71281,7 @@ s=t.p
 return new A.cj(new A.aL(10*q/100,10*p/100,10*o/100,0),A.fc(A.a([A.fA(A.a([A.c_("Hi there, Welcome to My Space  ",n.h4(A.qn(a,16)),r),A.I3("assets/gif/hi.gif",B.T,r,A.aov(10),r,r)],s),B.Z,B.S,B.cs),A.c_("I'm Salman F. Rahman,",A.cF(r,r,r,r,r,r,r,r,r,r,r,A.qn(a,28),r,r,B.bQ,r,r,!0,r,r,r,r,r,r,r,r),r),A.bu(r,$.b4.O()/100,r),A.fA(A.a([A.c_("A ",A.cF(r,r,r,r,r,r,r,r,r,r,r,A.qn(a,18),r,r,B.n,r,r,!0,r,r,r,r,r,r,r,r),r),A.amV($.aA6(),!0,!0)],s),B.br,B.S,B.X),A.bu(r,2*$.b4.O()/100,r),A.fA(A.a([new A.nK("download cv",new A.a13(),r),B.lE],s),B.Z,B.eX,B.X)],s),B.aC,B.S,B.X),r)}}
 A.a13.prototype={
 $0(){var s=A.amT(null)
+s.href="assets/assets/pdf/resume.pdf"
 s.setAttribute("download","resume.pdf")
 s.click()},
 $S:13}
