@@ -71304,7 +71304,7 @@ i=g.ax.a===B.x?B.a_:B.a5
 return A.bu(A.jC(B.aV,A.a([e,new A.cj(new A.aL(10*s/100,10*r/100,0,0),A.fc(A.a([q,o,n,new A.j3(m,B.bd,B.cn,B.Kw,h),l,new A.cj(new A.aL(0,0,50*k/100,0),A.c_(u.P,A.cF(h,h,A.at(153,i.v()>>>16&255,i.v()>>>8&255,i.v()&255),h,h,h,h,h,h,h,h,j,h,h,B.bv,h,h,!0,h,h,h,h,h,h,h,h),h),h),A.bu(h,2*$.b4.O()/100,h),new A.nK("download cv",new A.a14(),h)],p),B.aC,B.S,B.X),h)],p),B.bi),60*f/100,h)}}
 A.a14.prototype={
 $0(){var s,r=A.amT(u.W)
-r.href="assets/pdf/resume.pdf"
+r.href="assets/assets/pdf/resume.pdf"
 r.setAttribute("download","resume.pdf")
 s=r.style
 s.display="none"

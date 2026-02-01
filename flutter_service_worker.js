@@ -160,6 +160,10 @@ self.addEventListener("fetch", (event) => {
   if (!RESOURCES[key]) {
     return;
   }
+  // Bypass cache for PDF files to ensure latest version is always served
+  if (key.endsWith('.pdf')) {
+    return;
+  }
   // If the URL is the index.html, perform an online-first request.
   if (key == '/') {
     return onlineFirst(event);
