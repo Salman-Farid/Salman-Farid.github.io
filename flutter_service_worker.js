@@ -32,7 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d37bf8cdf7ad312d73a631eca625fd03
 "assets/assets/imgs/School-attendance.png": "dfec9e970dd97a6cbc590bb22ceb6456",
 "assets/assets/imgs/sh-cash%2520white.png": "a5b9a73cfa5c3b96b629df31015575b7",
 "assets/assets/imgs/TManageHub.png": "d3afe1ed76edf723857f9a8989a8079a",
-"assets/assets/pdf/resume.pdf": "7387ec27c6b427e1384c887652c22606",
+"assets/assets/pdf/resume.pdf": "67c7cf48e83e4a58f32fe03f2d5348f9",
 "assets/FontManifest.json": "663783f541c46e7f04c244ce710d1b61",
 "assets/fonts/MaterialIcons-Regular.otf": "8acb59ae8a9cb978d17c90b65b5e03a6",
 "assets/NOTICES": "f28f4fd4c9d83f623dc27c512003d3fc",
